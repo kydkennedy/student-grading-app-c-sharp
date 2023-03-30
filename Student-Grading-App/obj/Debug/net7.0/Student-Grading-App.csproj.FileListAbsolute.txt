@@ -1,0 +1,15 @@
+/Users/gibsons/Documents/GitHub/Student-Grading-App/bin/Debug/net7.0/Student-Grading-App
+/Users/gibsons/Documents/GitHub/Student-Grading-App/bin/Debug/net7.0/Student-Grading-App.deps.json
+/Users/gibsons/Documents/GitHub/Student-Grading-App/bin/Debug/net7.0/Student-Grading-App.runtimeconfig.json
+/Users/gibsons/Documents/GitHub/Student-Grading-App/bin/Debug/net7.0/Student-Grading-App.dll
+/Users/gibsons/Documents/GitHub/Student-Grading-App/bin/Debug/net7.0/Student-Grading-App.pdb
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/Student-Grading-App.csproj.AssemblyReference.cache
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/Student-Grading-App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/Student-Grading-App.AssemblyInfoInputs.cache
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/Student-Grading-App.AssemblyInfo.cs
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/Student-Grading-App.csproj.CoreCompileInputs.cache
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/Student-Grading-App.dll
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/refint/Student-Grading-App.dll
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/Student-Grading-App.pdb
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/Student-Grading-App.genruntimeconfig.cache
+/Users/gibsons/Documents/GitHub/Student-Grading-App/obj/Debug/net7.0/ref/Student-Grading-App.dll
